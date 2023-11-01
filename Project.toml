@@ -1,0 +1,4 @@
+name = "NewPackage13"
+uuid = "f12443bb-a28c-4b8f-a9f5-a43cf5618411"
+authors = ["Bill Burdick <bill.burdick@gmail.com>"]
+version = "0.1.0"
